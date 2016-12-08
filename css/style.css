@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+  background-color: rgb(42, 42, 42);
+
+}
+
+h1{
+  color:rgba(118,153,14,1);
+  font-size: 2.5em;
+}
+
+h3{
+  color:rgba(118,153,14,1);
+  font-weight: 300;
+}
+.jumbotoron{
+  background-color: transparent;
+}
+.img-responsive{
+  max-width: 230px;
+  margin: 0 auto;
+}
